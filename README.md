@@ -10,7 +10,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangle2022&label=Profile%20views&color=0e75b6&style=flat" alt="sangle2022" /> </p> -->
 
 * 🌍  I'm based in Maharashtra
-* 💬  My portfolio is [https://suraj-sangle.netlify.app/]
+* 💬  My portfolio is [https://suraj-sangles-portfolio.netlify.app/]
 * ✉️  You can contact me at [surajsangale41198@gmail.com](mailto:surajsangale41198@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
 * 🤔  I’m looking for help with `Competitive Programming`
