@@ -8,9 +8,9 @@
 <p align="center" ><img width="80%" height="300px" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangle2022&label=Profile%20views&color=0e75b6&style=flat" alt="sangle2022" /> </p> -->
-
+<!-- https://sangle2022.github.io/ -->
 * 🌍  I'm based in Maharashtra
-* 💬  My portfolio is [https://sangle2022.github.io/]
+* 💬  My portfolio is [https://suraj-sangles-portfolio.netlify.app/]
 * ✉️  You can contact me at [surajsangale41198@gmail.com](mailto:surajsangale41198@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
 * 🤔  I’m looking for help with `Competitive Programming`
